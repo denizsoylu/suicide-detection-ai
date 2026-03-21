@@ -1,0 +1,8 @@
+data/raw/
+data/processed/
+*.csv
+.idea/
+.venv/
+models/
+*.pth
+__pycache__/
